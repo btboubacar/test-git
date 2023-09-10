@@ -9,6 +9,7 @@ function App() {
       </header>
       <p>This is a paragraph that has been added</p>
       <p>This paragraph has been modified to include more things</p>
+      <p>Test pull request</p>
       <Footer />
     </>
   );
