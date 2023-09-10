@@ -1,0 +1,13 @@
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid red 1px;
+  margin-top: 20px;
+  padding: 20px;
+}
+
+p {
+  color: red;
+  font-size: 20;
+}
