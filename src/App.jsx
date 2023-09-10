@@ -7,6 +7,7 @@ function App() {
       <header>
         <p>This is a header</p>
       </header>
+      <p>This is a paragraph that has been added</p>
       <Footer />
     </>
   );
